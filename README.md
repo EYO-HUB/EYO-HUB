@@ -1,14 +1,20 @@
 <!-- 1. Header Section -->
 <div align="center">
-  <h1>EYOB TESFAYE</h1>
-  <h3>Software Developer</h3>
+  <h1>Eyob Tesfaye</h1>
+  <h3>Frontend Developer</h3>
 </div>
 
 <br>
 
-<!-- 2. Main Landscape Image (Replace with your actual image URL or path) -->
+<!-- 2. Your Downloaded Media File -->
 <div align="center">
-  <img src="Screenshot 2026-05-27 230437.jpg" alt="Landscape Illustration" width="100%">
+  <!-- If it is an image file (like a GIF or JPG), use this line: -->
+
+  
+  <!-- If it is an actual .mp4 video file, uncomment the lines below instead: -->
+  
+  <video src="Black Modern Opening Profile Youtube Intro Video.mp4" width="100%" autoplay loop muted playsinline></video> 
+  
 </div>
 
 <br>
