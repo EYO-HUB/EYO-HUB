@@ -1,9 +1,9 @@
 # 💫 About Me:
 👋 Hi, I'm Eyob!
-I am an Information Technology student and a passionate Frontend Developer based in Ethiopia. I love bridging the gap between clean code and great user experiences. Currently, I'm sharpening my skills in frontend technologies while exploring backend development and mobile apps.
+"I am an Information Technology student and a passionate Frontend Developer based in Ethiopia. I love bridging the gap between clean code and great user experiences. Currently, I'm sharpening my skills in frontend technologies while exploring backend development and mobile apps.
 💻 What I do: Build responsive web applications, interactive UIs, and software solutions.
 🚀 Current Projects: Working on an Android-based music player and a social media sentiment analysis tool.
-🛠️ Tech Stack: HTML, CSS, JavaScript, Java (Swing/JDBC), and Python.
+🛠️ Tech Stack: HTML, CSS, JavaScript, Java (Swing/JDBC), and Python."
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@eyoba222) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@eyob_201) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eyobtesfaye078@gmail.com) 
