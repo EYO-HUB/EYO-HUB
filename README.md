@@ -1,3 +1,22 @@
+<!-- 1. Header Section -->
+<div align="center">
+  <h1>EYOB TESFAYE</h1>
+  <h3>Software Developer</h3>
+</div>
+
+<br>
+
+<!-- 2. Main Landscape Image (Replace with your actual image URL or path) -->
+<div align="center">
+  <img src="Screenshot 2026-05-27 230437.jpg" alt="Landscape Illustration" width="100%">
+</div>
+
+<br>
+
+<!-- 3. Centered Green Subtitle -->
+<div align="center">
+  <code style="color: #00FF00; font-size: 16px; font-weight: bold; background: none; border: none;">keep that Eye Clean.</code>
+</div>
 # 💫 About Me:
 👋 Hi, I'm Eyob!
 "I am an Information Technology student and a passionate Frontend Developer based in Ethiopia. I love bridging the gap between clean code and great user experiences. Currently, I'm sharpening my skills in frontend technologies while exploring backend development and mobile apps.
