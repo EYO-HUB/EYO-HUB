@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <video src="Red and Black Modern Opening Profile Youtube Intro Video.mp4" width="100%" autoplay loop muted playsinline></video>
+  <video src="EYOB.mp4" width="100%" autoplay loop muted playsinline></video>
 </div>
 
 <br>
