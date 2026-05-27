@@ -1,17 +1,4 @@
-<!-- 1. Header Section -->
 <div align="center">
-  <h1>Eyob Tesfaye</h1>
-  <h3>Frontend Developer</h3>
-</div>
-
-<br>
-
-<!-- 2. Your Downloaded Media File -->
-<div align="center">
-  <!-- If it is an image file (like a GIF or JPG), use this line: -->
-
-  
-  <!-- If it is an actual .mp4 video file, uncomment the lines below instead: -->
   
   <video src="Red and Black Modern Opening Profile Youtube Intro Video.mp4" width="100%" autoplay loop muted playsinline></video> 
   
