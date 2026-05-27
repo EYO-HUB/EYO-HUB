@@ -1,12 +1,16 @@
 <div align="center">
-  
-  <video src="Red and Black Modern Opening Profile Youtube Intro Video.mp4" width="100%" autoplay loop muted playsinline></video> 
-  
+  <h1>Eyob Tesfaye</h1>
+  <h3>Frontend Developer</h3>
 </div>
 
 <br>
 
-<!-- 3. Centered Green Subtitle -->
+<div align="center">
+  <video src="Red and Black Modern Opening Profile Youtube Intro Video.mp4" width="100%" autoplay loop muted playsinline></video>
+</div>
+
+<br>
+
 <div align="center">
   <code style="color: #00FF00; font-size: 16px; font-weight: bold; background: none; border: none;">keep that Eye Clean.</code>
 </div>
