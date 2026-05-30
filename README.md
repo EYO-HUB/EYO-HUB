@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <video src="EYOB.mp4" width="100%" autoplay loop muted playsinline></video>
+  <video src="EYO-HUB/EYOB.mp4" width="100%" autoplay loop muted playsinline></video>
 </div>
 
 <br>
