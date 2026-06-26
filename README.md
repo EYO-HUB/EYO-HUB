@@ -16,7 +16,7 @@
 </div>
 # 💫 About Me:
 👋 Hi, I'm Eyob!
-"I am an Information Technology student and a passionate Frontend Developer based in Ethiopia. I love bridging the gap between clean code and great user experiences. Currently, I'm sharpening my skills in frontend technologies while exploring backend development and mobile apps.
+"I am an Information Technology student and a passionate software Developer based in Ethiopia. I love bridging the gap between clean code and great user experiences. Currently, I'm sharpening my skills in frontend technologies while exploring backend development and mobile apps.
 💻 What I do: Build responsive web applications, interactive UIs, and software solutions.
 🚀 Current Projects: Working on an Android-based music player and a social media sentiment analysis tool.
 🛠️ Tech Stack: HTML, CSS, JavaScript, Java (Swing/JDBC), and Python."
