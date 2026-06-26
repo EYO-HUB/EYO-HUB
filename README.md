@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Eyob Tesfaye</h1>
-  <h3>Frontend Developer</h3>
+  <h3>software Developer</h3>
 </div>
 
 <br>
